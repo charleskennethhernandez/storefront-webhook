@@ -4,6 +4,35 @@
 
 This readme file provides a comprehensive guide on integrating a Laravel Webhook Server with Spatie Webhook, Pipedream, and the Adobe Document Generation API for Storefront in Raemulan Lands Incorporated.
 
+# Storefront for Raemulan Lands Incorporated
+
+## Laravel Webhook Server Integration Guide with Spatie Webhook and Adobe Document Generation API
+
+This readme file provides a comprehensive guide on integrating a Laravel Webhook Server with Spatie Webhook, Pipedream, and the Adobe Document Generation API for Storefront in Raemulan Lands Incorporated.
+
+### What are Webhooks?
+
+Webhooks are a way for one system to send real-time data to another system as soon as an event occurs. In the context of this integration, webhooks play a crucial role in allowing external services, such as Pipedream, to notify your Laravel application about specific events, triggering actions and processes.
+
+### Prerequisites
+
+Before you begin the integration process, ensure you have the following:
+
+1. **Pipedream Account:** Sign up for a Pipedream account at [https://pipedream.com](https://pipedream.com).
+
+2. **Adobe Document Generation API Credentials:** Obtain API credentials for the Adobe Document Generation API from the Adobe Developer Console.
+
+3. **Spatie Webhook Package:** Ensure the Spatie Webhook package is installed in your Laravel project:
+
+    ```bash
+    composer require spatie/laravel-webhook-client
+    ```
+
+4. **Laravel Webhook Server:** Set up a Laravel Webhook Server in your project. You can use packages like [spatie/laravel-webhook-server](https://github.com/spatie/laravel-webhook-server) for this purpose.
+
+### Integration Steps
+...
+
 ### Prerequisites
 
 Before you begin the integration process, ensure you have the following:
