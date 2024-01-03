@@ -4,12 +4,6 @@
 
 This readme file provides a comprehensive guide on integrating a Laravel Webhook Server with Spatie Webhook, Pipedream, and the Adobe Document Generation API for Storefront in Raemulan Lands Incorporated.
 
-# Storefront for Raemulan Lands Incorporated
-
-## Laravel Webhook Server Integration Guide with Spatie Webhook and Adobe Document Generation API
-
-This readme file provides a comprehensive guide on integrating a Laravel Webhook Server with Spatie Webhook, Pipedream, and the Adobe Document Generation API for Storefront in Raemulan Lands Incorporated.
-
 ### What are Webhooks?
 
 Webhooks are a way for one system to send real-time data to another system as soon as an event occurs. In the context of this integration, webhooks play a crucial role in allowing external services, such as Pipedream, to notify your Laravel application about specific events, triggering actions and processes.
